@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title> Chicago HS </title>
+
+<style>
+
+</style>
+
+</head>
+
+<body>
+
+<header> 
+<div class="Von Stuben">Von Stueben</div>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVFIkM_5VBbqUFPTMrUsoN-_qEO5bhDxXhxA&usqp=CAU">
+<p> highschool in chicago </p>
+
+<table style="background-color:#c1121f"
